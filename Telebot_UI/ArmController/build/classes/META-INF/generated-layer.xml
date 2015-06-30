@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="telebot_armcontroller">
+                <file name="ArmController" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--telebot.armcontroller.ArmControllerTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//telebot.armcontroller//ArmController//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="telebot">
+                <folder name="armcontroller">
+                    <file name="ArmControllerTopComponent">
+                        <!--telebot.armcontroller.ArmControllerTopComponent-->
+                        <attr name="settings.providerPath" stringvalue="xml/lookups//telebot_armcontroller/ArmController.instance"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="telebot_armcontroller">
+                <file name="ArmController.instance">
+                    <!--telebot.armcontroller.ArmControllerTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="telebot.armcontroller.ArmControllerTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="telebot.armcontroller.ArmControllerTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="telebot-armcontroller-ArmControllerTopComponent.shadow">
+                <!--telebot.armcontroller.ArmControllerTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/telebot-armcontroller-ArmControllerTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="ArmControllerTopComponent.settings">
+                <!--telebot.armcontroller.ArmControllerTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="telebot.armcontroller.ArmControllerTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="ArmControllerTopComponent.wstcref">
+                    <!--telebot.armcontroller.ArmControllerTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="ArmControllerTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="telebot-armcontroller-ArmControllerTopComponent.instance">
+                <!--telebot.armcontroller.ArmControllerTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="telebot.armcontroller.ArmControllerTopComponent"/>
+                <attr name="preferredID" stringvalue="ArmControllerTopComponent"/>
+                <attr
+                    bundlevalue="telebot.armcontroller.Bundle#CTL_ArmControllerAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

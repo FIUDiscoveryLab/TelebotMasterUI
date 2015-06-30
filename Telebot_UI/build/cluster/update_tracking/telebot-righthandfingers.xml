@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="telebot.righthandfingers">
+    <module_version install_time="1435621094014" last="true" origin="installer" specification_version="1.0">
+        <file crc="4082569093" name="config/Modules/telebot-righthandfingers.xml"/>
+        <file crc="3353381327" name="modules/telebot-righthandfingers.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="telebot.armcontroller">
+    <module_version install_time="1435620907184" last="true" origin="installer" specification_version="1.0">
+        <file crc="3875453064" name="config/Modules/telebot-armcontroller.xml"/>
+        <file crc="178042737" name="modules/telebot-armcontroller.jar"/>
+    </module_version>
+</module>

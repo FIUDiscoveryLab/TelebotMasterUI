@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.0.2\platform=1432084945133
+cluster.C:/Users/Manuel/Google Drive/Programming/Java/Telebot_UI/build/cluster=1435621094172
+cluster.C:/Program Files/NetBeans 8.0.2/platform=1432084945133
+user=1435621094172
+crc=7
+locale=en_US
+branding=telebot_ui
+java.version=1.8.0_45
+java.vm.version=25.45-b02
